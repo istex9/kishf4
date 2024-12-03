@@ -47,3 +47,4 @@
 
 By implementing these improvements, the model's performance is likely to improve significantly, particularly in distinguishing between **"Cat"** and other classes.
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/istex9/kishf4/blob/main/hf4.ipynb)
